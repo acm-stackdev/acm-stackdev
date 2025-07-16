@@ -51,7 +51,7 @@
 <!-- Optional link icons -->
 <p align="center">
  <!-- <a href="https://your-portfolio.com" target="_blank">🌐 Portfolio</a> | -->
-  <a href="acm.dev@outlook.con">📧 Email</a> |
+  <a href="acm.dev@outlook.com">📧 Email</a> |
   <a href="https://linkedin.com/in/your-link](https://www.linkedin.com/in/aung-chan-myae-7b94042a5">🔗 LinkedIn</a>
 </p>
 

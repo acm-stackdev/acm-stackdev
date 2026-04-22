@@ -16,7 +16,7 @@
 </ul>
 
 <h3>🌍 Location</h3>
-<p>📍 From <strong>Myanmar</strong>, based in <strong>Thailand</strong>, soon moving to the <strong>UK 🇬🇧</strong></p>
+<p>📍 From <strong>Myanmar</strong>, based in <strong>UK</strong>.
 
 <hr/>
 
